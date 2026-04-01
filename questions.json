@@ -1,0 +1,122 @@
+{
+  "Software Engineer (General)": [
+    "What is the difference between a Process and a Thread?",
+    "Explain the four pillars of OOPs with real-world examples.",
+    "How does Garbage Collection work in modern languages?",
+    "Explain the Time Complexity of QuickSort and MergeSort.",
+    "What is a Deadlock and how can it be prevented?",
+    "What is the difference between an Abstract Class and an Interface?",
+    "How do you handle memory leaks in a large application?",
+    "Explain the concept of RESTful APIs.",
+    "What is the difference between SQL and NoSQL databases?",
+    "Describe the Software Development Life Cycle (SDLC) models."
+  ],
+  "Java Developer": [
+    "Explain the internal working of a HashMap in Java.",
+    "What are Java Stream APIs and how do they improve code efficiency?",
+    "Difference between '==' and '.equals()' in Java.",
+    "How does the 'synchronized' keyword work in multi-threading?",
+    "What is the difference between Checked and Unchecked exceptions?",
+    "Explain the 'final', 'finally', and 'finalize' keywords.",
+    "What is the purpose of the 'volatile' keyword in Java?",
+    "How does Java's Memory Model (Stack vs Heap) work?",
+    "What is a Singleton Class and how do you implement it?",
+    "Explain Spring Boot's Dependency Injection (DI) and Inversion of Control (IoC)."
+  ],
+  "Python Developer": [
+    "What are Decorators and how are they used?",
+    "Explain the difference between a List and a Tuple in Python.",
+    "What is the Global Interpreter Lock (GIL)?",
+    "How does memory management work in Python (Reference Counting)?",
+    "What are Generators and how do they save memory?",
+    "Explain the difference between 'is' and '==' operators.",
+    "How do you handle exceptions using try-except-finally blocks?",
+    "What are Dunder (Magic) methods in Python?",
+    "Explain the concept of List Comprehension with an example.",
+    "What is a Virtual Environment and why is it important?"
+  ],
+  "Data Scientist / ML Engineer": [
+    "Difference between Overfitting and Underfitting.",
+    "Explain the Central Limit Theorem and its importance.",
+    "How does a Random Forest algorithm work?",
+    "What is the difference between L1 and L2 Regularization?",
+    "Explain Precision, Recall, and F1-Score in classification.",
+    "How do you handle missing data in a large dataset?",
+    "What is the Curse of Dimensionality?",
+    "Explain the difference between K-Means and Hierarchical Clustering.",
+    "What is Gradient Descent and how does it optimize models?",
+    "Describe the architecture of a Convolutional Neural Network (CNN)."
+  ],
+  "Frontend Developer (React)": [
+    "What is the Virtual DOM and how does it work?",
+    "Explain React Lifecycle methods vs Functional Hooks.",
+    "What is Prop Drilling and how do you avoid it?",
+    "Difference between 'State' and 'Props' in React.",
+    "How does Redux handle global state management?",
+    "What is the difference between 'useEffect' and 'useLayoutEffect'?",
+    "Explain the concept of Higher-Order Components (HOC).",
+    "How do you optimize a React app's performance?",
+    "What are 'Keys' in React and why are they important?",
+    "Explain the difference between Server-Side Rendering (SSR) and Client-Side Rendering (CSR)."
+  ],
+  "Backend Developer (Node.js)": [
+    "Explain the Event Loop in Node.js.",
+    "What is the difference between 'setImmediate()' and 'process.nextTick()'?",
+    "How do you handle authentication using JWT?",
+    "Explain the role of Middlewares in Express.js.",
+    "What is the difference between SQL injection and Cross-Site Scripting (XSS)?",
+    "How do you scale a Node.js application (Clustering)?",
+    "Explain the concept of Microservices Architecture.",
+    "What are WebSockets and when should you use them?",
+    "Difference between PUT and PATCH methods in REST.",
+    "How do you perform Load Balancing in a backend system?"
+  ],
+  "C++ Developer": [
+    "Explain Pointers vs References with examples.",
+    "What are Virtual Functions and Polymorphism in C++?",
+    "How does the Standard Template Library (STL) work?",
+    "What is the difference between 'malloc' and 'new'?",
+    "Explain the 'RAII' (Resource Acquisition Is Initialization) principle.",
+    "What are Smart Pointers (unique_ptr, shared_ptr)?",
+    "Explain the 'Diamond Problem' in Multiple Inheritance.",
+    "What is the purpose of the 'const' keyword in C++?",
+    "How do Inline functions work and when to use them?",
+    "Explain Operator Overloading in C++."
+  ],
+  "Full Stack Developer": [
+    "Explain the difference between REST and GraphQL.",
+    "How do you manage sessions in a distributed system?",
+    "What is the 'CORS' error and how do you resolve it?",
+    "Explain the 'Three-Tier Architecture' in web development.",
+    "How do you optimize database queries for large applications?",
+    "Describe the process of deploying an app using Docker/Kubernetes.",
+    "What is the difference between Monolithic and Microservices design?",
+    "How do you ensure data security between Frontend and Backend?",
+    "What are Progressive Web Apps (PWA)?",
+    "Explain the role of a Message Queue (like RabbitMQ or Kafka)."
+  ],
+  "Data Analyst": [
+    "Explain the different types of Joins in SQL.",
+    "What is the difference between 'GROUP BY' and 'ORDER BY'?",
+    "How do you calculate the Mean, Median, and Mode in a skewed dataset?",
+    "What is a P-Value and what does it tell us?",
+    "How do you identify and handle Outliers?",
+    "What is the difference between Correlation and Causation?",
+    "Explain the concept of Data Normalization.",
+    "How do you use VLOOKUP vs INDEX-MATCH in Excel?",
+    "What are the benefits of using Tableau vs PowerBI for visualization?",
+    "How do you automate a data cleaning task using Python (Pandas)?"
+  ],
+  "HR / Behavioral (Common)": [
+    "Tell me about a time you failed and how you handled it.",
+    "Why should we hire you over other candidates?",
+    "Where do you see yourself in the next 5 years?",
+    "How do you handle conflict within a team?",
+    "Describe a situation where you had to learn a new technology quickly.",
+    "What is your greatest professional achievement so far?",
+    "How do you prioritize tasks when under a tight deadline?",
+    "Why do you want to join our company specifically?",
+    "Tell me about a project you are most proud of and your role in it.",
+    "How do you handle feedback or criticism from your seniors?"
+  ]
+}
